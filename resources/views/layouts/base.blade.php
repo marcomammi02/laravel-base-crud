@@ -15,6 +15,9 @@
 
 </head>
 <body>
+    <h2>
+        @yield('title')
+    </h2>
     <main>
         @yield('content')
     </main>

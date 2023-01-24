@@ -1,5 +1,8 @@
 @extends('layouts.base')
 
+@section('title')
+    Comics list
+@endsection
 @section('content')
     <table class="table table-dark table-hover">
         <table class="table">
